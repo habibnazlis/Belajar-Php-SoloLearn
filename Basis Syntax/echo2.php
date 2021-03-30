@@ -1,2 +1,2 @@
 <?php
-    echo "<h1>SoloLearn</h1>";
+echo "<h1>SoloLearn</h1>";

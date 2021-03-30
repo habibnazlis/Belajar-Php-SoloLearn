@@ -1,2 +1,2 @@
 <?php
-    define("AGE", 28);
+define("AGE", 28);

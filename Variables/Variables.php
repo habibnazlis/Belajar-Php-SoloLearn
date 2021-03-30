@@ -1,3 +1,3 @@
 <?php
-    $name = "David";
-    $age = 25;
+$name = "David";
+$age = 25;

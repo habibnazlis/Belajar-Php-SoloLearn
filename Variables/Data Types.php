@@ -1,2 +1,2 @@
 <?php
-    $string = "I am learning PHP";
+$string = "I am learning PHP";
